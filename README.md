@@ -4,28 +4,22 @@
 
 Salut c'est fourmi !
 
-📫 fourmifourmi@proton.me 
-  
-<img style="width:40px;" src="https://github.com/user-attachments/assets/862ad6fe-8b43-441e-8893-c0764d3ce960"/>
+<div style="display: flex">
+  <img src="https://img.shields.io/badge/HTML-8A2BE2"/>
+  <img src="https://img.shields.io/badge/CSS-21feff"/>
+  <img src="https://img.shields.io/badge/React-b1ff00"/>
+  <img src="https://img.shields.io/badge/JS/Typescript-ff50d6"/>
+  <img src="https://img.shields.io/badge/Node-fd965a"/>
+  <img src="https://img.shields.io/badge/Express-ffe700"/>
+  <img src="https://img.shields.io/badge/GraphQL-237b91"/>
+  <img src="https://img.shields.io/badge/et_bien_+🌈-edd6f6"/>
+</div>
 
-<img style="width:40px" src="https://github.com/user-attachments/assets/db1c85eb-9161-4cd5-aec3-46d39ed931d1"/>
-
-<img style="width:40px;" src="https://github.com/user-attachments/assets/b4c73893-dfef-40b3-8ddb-9f913cf3b009"/>
-
-<img style="width:40px" src="https://github.com/user-attachments/assets/10d0f07c-4b4d-4630-bb3e-d30c4dc5e0ea"/>
-
-
+<h2>🎯</h2>
 
 <br/>
-<br/>
 <p>
-  Mon plat préféré c'est les coquillettes au ketchup avec du fromage rapé.
-</p>
-<h2>Youtube</h2>
-<p>
-  <a href="https://www.youtube.com/@fourmifourmidable" target="blank">
-    <img style="width:250px;height:140px;" src="https://media.discordapp.net/attachments/596662374438797348/1312156317032386590/PARTIE_1.png?ex=674b784c&is=674a26cc&hm=a900de186e7378f6972374b28715c2fcf2fd728facebc973c61bec2b391a62f2&=&format=webp&quality=lossless&width=2266&height=1274"/>
-  </a>
+  <img src="https://github.com/user-attachments/assets/d881199a-9e03-4389-9b55-d908a81931ac" />
 </p>
 
 
